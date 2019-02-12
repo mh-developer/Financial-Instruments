@@ -1,1 +1,2 @@
-# Financial-Instruments
+## Financial Instruments
+![Labirints](candlestickChart.png)
